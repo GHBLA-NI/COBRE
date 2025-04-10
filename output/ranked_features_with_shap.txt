@@ -1,0 +1,32 @@
+Parity	1.6282
+1,5-Anhydrosorbitol	1.4163
+Gravidity	0.8631
+Galactonic acid	0.8179
+Glutaconylcarnitine	0.7121
+Hexanoylcarnitine	0.6606
+PC ae C34:3	0.6483
+3-Methylglutarylcarnitine	0.5180
+PC ae C44:3	0.4991
+PC ae C30:1	0.4986
+Glycerol	0.4452
+Methylcysteine	0.4286
+isoleucine	0.4193
+PC aa C26:0	0.3944
+Alpha-Lactose	0.3508
+Methionine sulfoxide	0.3499
+PC ae C38:2	0.3496
+Tetradecadienoylcarnitine	0.3152
+Stearic acid	0.3142
+Glycine	0.3104
+Maternal_Ethnicity_NHPI	0.2992
+PC ae C44:4	0.2775
+Carnosine	0.2538
+PC ae C44:6	0.2494
+L-Threonine	0.2477
+PC aa C40:3	0.2461
+Beta Alanine	0.2358
+2-Hydroxypyridine	0.2303
+Docosahexaenoic acid	0.2237
+Benzoic acid	0.2093
+Tiglylcarnitine	0.2091
+3-Hydroxy-9-hexadecenoylcarnitine	0.2037

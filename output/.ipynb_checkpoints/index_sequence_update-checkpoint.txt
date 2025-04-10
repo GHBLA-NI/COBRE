@@ -1,0 +1,186 @@
+1,5-Anhydrosorbitol
+Galactonic acid
+Glutaconylcarnitine
+Hexanoylcarnitine
+PC ae C34:3
+3-Methylglutarylcarnitine
+PC ae C44:3
+PC ae C30:1
+Glycerol
+Methylcysteine
+isoleucine
+PC aa C26:0
+Alpha-Lactose
+Methionine sulfoxide
+PC ae C38:2
+Tetradecadienoylcarnitine
+Stearic acid
+Glycine
+Maternal_Ethnicity_NHPI
+PC ae C44:4
+Carnosine
+PC ae C44:6
+L-Threonine
+PC aa C40:3
+Beta Alanine
+2-Hydroxypyridine
+Docosahexaenoic acid
+Benzoic acid
+Tiglylcarnitine
+3-Hydroxy-9-hexadecenoylcarnitine
+PC aa C42:0
+Pelargonic acid
+L Cysteine
+Butenylcarnitine
+Indoxyl sulfate
+Glutaric acid
+Uric acid
+Hydroxyhexanoylcarnitine
+Hexadecadienoylcarnitine
+PC(18:0/22:5(4Z,7Z,10Z,13Z,16Z))
+Oleic acid
+PC aa C38:0
+Decanoylcarnitine
+Mannitol
+Ribonolactone
+PC ae C38:1
+Valerylcarnitine
+Myoinositol
+Ribitol
+Taurine
+9-Hexadecenoylcarnitine
+D-Galactose
+L-Sorbose
+PC ae C42:5
+PC aa C40:2
+Hydroxybutyrylcarnitine
+3-Hydroxyhexadecanoylcarnitine
+L-Phenylalanine
+L-Tyrosine
+Decenoylcarnitine
+L-Aspartic acid
+PC ae C40:3
+PC aa C42:5
+X3 hydroxypyridine
+PC ae C38:3
+Decadienoylcarnitine
+2-Hexenoylcarnitine
+Erythrose
+PC ae C36:1
+Glycerol 3-phosphate
+PC aa C38:3
+Acetylcarnitine
+Tetradecanoylcarnitine
+L-Arginine
+PC ae C40:6
+Dodecanedioylcarnitine
+Dodecanoic acid
+Spermine
+Dodecenoylcarnitine
+PC ae C40:4
+Putrescine
+12-Hydroxy-12-octadecanoylcarnitine
+PC aa C42:1
+Fumaric acid
+Octadecanoylcarnitine
+2-Hydroxy-3-methylbutyric acid
+PC aa C36:3
+Pimeloylcarnitine
+2-Hydroxybutyric acid
+Tetradecenoylcarnitine
+L-Palmitoylcarnitine
+Maleic acid
+PC ae C36:5
+Hydroxypropionylcarnitine
+Arachidonic acid
+PC aa C28:1
+Citric acid
+Propenoylcarnitine
+PC aa C30:0
+PC aa C34:4
+Malic acid
+Nonaylcarnitine
+PC aa C42:2
+PC ae C44:5
+L-Glutamine
+PC ae C30:2
+PC aa C38:4
+Petroselinic acid
+Tryptophan
+PC aa C36:5
+PC ae C42:0
+Octadecenoylcarnitine
+Palmitic acid
+L-Arabitol
+PC aa C36:6
+L-Alanine
+PC ae C42:2
+PC ae C42:3
+Octadecadienylcarnitine
+PC ae C36:0
+PC ae C40:5
+Isocitric acid
+PC aa C36:4
+PC aa C32:0
+Hydroxyvalerylcarnitine
+PC aa C34:3
+L-Asparagine
+Octanoylcarnitine
+PC ae C40:2
+PC ae C38:0
+PC aa C42:4
+PC aa C32:3
+Glyceric acid
+Kynurenine
+Proline
+D-Xylose
+L-Methionine
+PC ae C32:1
+Hydroxytetradecadienoylcarnitine
+3-Methyl-2-oxovaleric acid
+3-Hydroxy-cis-5-tetradecenoylcarnitine
+PC ae C38:5
+PC aa C38:5
+PC ae C30:0
+PC aa C40:1
+L-Leucine
+Butyrylcarnitine
+Linoleic acid
+Dodecanoylcarnitine
+PC ae C36:4
+Glycolic acid
+L-Valine
+L-Cystine
+Hydroxyhexadecadienoylcarnitine
+D-Threitol
+PC ae C34:0
+L-Serine
+Spermidine
+Propionylcarnitine
+L-Glutamic acid
+PC ae C38:6
+D-Glucose
+Pyroglutamic acid
+Histidine
+PC aa C40:4
+PC ae C36:3
+PC aa C38:6
+N-Acetylornithine
+PC ae C38:4
+PC aa C24:0
+PC aa C40:6
+D-2-Hydroxyglutaric acid
+PC ae C40:1
+PC ae C32:2
+PC aa C36:1
+PC aa C36:0
+PC ae C42:4
+PC ae C42:1
+PC aa C34:2
+PC aa C36:2
+PC ae C36:2
+PC ae C34:2
+PC aa C32:1
+PC aa C34:1
+PC ae C34:1
+PC aa C42:6

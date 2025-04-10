@@ -1,0 +1,25 @@
+getpathway<-function(sym,allgenes,data){
+	l<-length(sym)
+	x<-NULL
+	isin<-rep(FALSE,l)
+	for ( i in 1:l){
+		ind<-unique(grep(paste("\\b",trim(sym[i]),"\\b",sep=""),allgenes))
+		n<-length(ind)
+		if(n>0){
+			if(n==1)
+				t<-data[ind,]
+			else 
+				t<-colMeans(data[ind,])
+			if(var(t)>0){
+				isin[i]=TRUE
+				x<-c(x,t)
+			}
+		}
+	}
+	if(is.null(x)){
+		list(x=NULL,isin=isin)
+	}
+	else{
+		list(x=matrix(x,nrow=ncol(data)),isin=isin)
+	}
+}
