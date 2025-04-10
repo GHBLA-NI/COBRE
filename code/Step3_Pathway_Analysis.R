@@ -110,7 +110,7 @@ for (i in 1:nrow(pds_matrix)){
   pathway_score <- pds_matrix[i,]
   cor_test <- cor.test(t(pathway_score), ClinicalInformation$OBS_NORMAL_con, method='kendall')
   p_values[i] <- cor_test$p.value
-  cor_coefficients[i] <- cor_test$estimate  # This is the tau value
+  cor_coefficients[i] <- cor_test$estimate  
 }
 
 # Convert to named vectors for easier interpretation
