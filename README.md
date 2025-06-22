@@ -2,7 +2,7 @@
 
 ## Description
 
-This is the github repository for the project **The ensembling method associates prepregnant BMI with metabolomic changes in a multi-ethnic cohort in Hawaii** by Leyang Tao, Bowei Li, Yuheng Du, Shengyu Hung and Lana Garmire. This project provides a comprehensive pipeline for analyzing metabolomic profiles in relation to maternal obesity using continuous BMI values. It incorporates a stacking ensemble machine learning model that combines linear and nonlinear approaches to elucidate ethnicity-specific metabolic variations. It contains code and data for generating Figure 1,2,3,5,6 in the paper. 
+This is the github repository for the project **The ensembling method associates prepregnant BMI with metabolomic changes in a multi-ethnic cohort in Hawaii** by Leyang Tao, Bowei Li, Yuheng Du, Shengyu Hung and Lana Garmire. This project provides a comprehensive pipeline for analyzing metabolomic profiles in relation to maternal obesity using continuous BMI values. It incorporates a stacking ensemble machine learning model that combines linear and nonlinear approaches to elucidate ethnicity-specific metabolic variations. It contains code and data for generating Figure 1,2 in the paper. 
 
 ## Getting Started
 
@@ -71,14 +71,6 @@ pip install Numpy
 ```
 
 
-Installing Plink for Running the Multinomial Script:
-*Important:* To successfully run the script "Step5_multinomial.R", you need to install plink.
-The script outputs logs to:
-  - /output/SNPfilter.log
-  - /output/SNPraw.log
-
-For more information and to download the latest version of plink, visit:
-https://www.cog-genomics.org/plink/2.0/
 
 
 ## Repository directories & files
@@ -94,10 +86,7 @@ The other files are as follows.
 + [`Step2_SHAP.ipynb`](Step2_SHAP.ipynb) contains the  the primary meta-learner and ensemble approach applied to the processed metabolites data, with results compared against a single linear regression model and interpreted using SHAP values.
 + [`Step3_Pathway_Analysis.R`](Step3_Pathway_Analysis.R) contains the pathway analysis with Kyoto Encyclopedia of Genes and Genomes (KEGG) database. 
 + [`Step4_Correlation.R`](Step4_Correlation.R) contains spearman correlation analysis to find out BMI associated metabolites.
-+ [`Step5_multinomial.R`](Step5_multinomial.R) contains the multinomial regression for each metabolite that predicts race while adjusting for maternal age and BMI.
-+ [`Step5.5_preparing_manhatten.R`](Step5.5_preparing_manhatten.R) contains the script prepare data for the manhattan plot.
-+ [`Step6_manhatten_plot.R`](Step6_manhatten_plot.R) contains the script for the manhattan plot.
-+ [`Step6_effect_plot.R`](Step6_effect_plot.R) contains the script for the effect plot.
+
 
 
 ### Local execution
